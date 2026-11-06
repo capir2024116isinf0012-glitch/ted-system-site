@@ -8,6 +8,9 @@ export const empresa = {
   visao:
     "Ser referência nacional em desenvolvimento de software sob medida até 2030, reconhecida pela excelência técnica, pela inovação constante e pelo impacto positivo gerado nos negócios que atendemos.",
   valores: [
+    {titulo: "Inclusão",
+     descricao: "Desenvolvemos nossas soluções pensando na diversidade das pessoas e buscando garantir que a tecnologia esteja acessível a todos."
+    },
     {
       titulo: "Excelência técnica",
       descricao: "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
@@ -55,6 +58,14 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+    {
+      nome: "Odete Roitman",
+      cargo: "Diretora e gerente de Projetos de Tecnologia",
+      foto: "",
+      alt: "Foto Odete Roitman",
+      descricao: "Fundadora da Inclúa, começou desenvolvendo sistemas para pessoas com alguma deficiencia ."
+    },
+    
   ]
 };
